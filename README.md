@@ -9,7 +9,7 @@ A PyQt5-based application for image processing that allows users to convert imag
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/artemventvent/production_practice_Mallenom
+   git clone https://github.com/artemventvent/production_practice_Mallenom.git
    cd production_practice_Mallenom
 2. Install required packages:
    ```bash
