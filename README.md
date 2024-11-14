@@ -24,13 +24,6 @@ A PyQt5-based application for image processing that allows users to convert imag
 3. Move Image: Click the "__Move Image__" button to select a folder where the image will be moved.
 4. The converted grayscale image will be saved in the same directory as the original image.
 
-## SOLID Principles
-- Single Responsibility: Each class has a single purpose, e.g., GrayscaleImageProcessor handles image processing.
-- Open/Closed: Classes can be extended without modifying their code.
-- Liskov Substitution: All processor classes can be substituted without changing functionality.
-- Interface Segregation: Interfaces for processing and moving files are separated.
-- Dependency Inversion: High-level classes depend on abstractions (IImageProcessor), not on concrete implementations.
-
 ## Requirements
 - Python 3.7+
 - PyQt5
